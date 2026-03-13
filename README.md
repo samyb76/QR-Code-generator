@@ -66,37 +66,6 @@ The program will generate a QR code and save it to the selected location.
 
 ---
 
-## Project Structure
-
-```
-qr-code-generator
-│
-├── qr_generator.py
-└── README.md
-```
-
----
-
-## Example Use Cases
-
-* Share a website easily
-* Generate QR codes for events
-* Create QR codes for contact links
-* Learning basic Python scripting
-
----
-
-## Possible Improvements
-
-Future improvements could include:
-
-* Graphical user interface
-* Custom QR code colors
-* Adding a logo inside the QR code
-* Batch QR code generation
-
----
-
 ## Author
 
-Personal project created to practice Python and learn how to work with external libraries.
+Samy BOUSSAD
